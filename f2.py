@@ -1,0 +1,1 @@
+print("welcome to f2 file")
